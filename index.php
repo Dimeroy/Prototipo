@@ -8,7 +8,7 @@
 </head>
 <body>
 	<header>
-		<h1>Carrito De Compras</h1>
+		<h1>Carrito De Compras Del Topo</h1>
 		<a href="./carritodecompras.php" title="ver carrito de compras">
 			<img src="./imagenes/carrito.png">
 		</a>
